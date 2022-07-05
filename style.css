@@ -13,6 +13,7 @@ background-color: rgb(204, 218, 218);
 .newArrival{
     margin-top: 20px;
     align-items: center;
+    background: linear-gradient(white, grey, white);
     
 }
 p, h5{
@@ -28,7 +29,7 @@ h1{
     margin: 20px;
 }
 .popular{
-    background: linear-gradient(rgb(221, 190, 190), white);
+    background: linear-gradient(white,rgb(221, 190, 190), white);
 }
 .popular img{
     margin-left: 70px;
@@ -58,7 +59,26 @@ nav{
         margin-left: 30%;
     
     }
+    #bg{
+       
+        height: 40vh;
+        padding: 0;
+        margin: 0;
+    }
 	
+  
+    input{
+        margin: auto;
+        align-items: center;
+        width: 65%;
+    }
+    #contact{
+        margin-right: 60%;
+    }
+    .about{
+        margin-top: 20px;
+    }
+
 }
 .scroll-up {
     position: fixed;
