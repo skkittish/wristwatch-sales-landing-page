@@ -11,7 +11,8 @@ background-color: rgb(204, 218, 218);
 }
 
 .newArrival{
-    margin-top: 20px;
+    margin-top: 30px;
+	margin-bottom: 30px;
     align-items: center;
     background: linear-gradient(white, grey, white);
     
